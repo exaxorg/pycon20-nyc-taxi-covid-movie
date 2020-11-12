@@ -32,7 +32,7 @@ wget https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2019-03.csv
 wget -O zones.json 'https://data.cityofnewyork.us/api/geospatial/d3c5-ddgc?method=export&format=GeoJSON'
 
 # COVID-19 statistics
-wget https://raw.githubusercontent.com/nychealth/coronavirus-data/master/case-hosp-death.csv
+wget https://raw.githubusercontent.com/nychealth/coronavirus-data/master/archive/case-hosp-death.csv
 ```
 
 
